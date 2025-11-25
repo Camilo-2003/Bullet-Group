@@ -1,5 +1,5 @@
 {
-  "name": "bullet-group",
+  "name": "bullets-group",
   "version": "0.0.1",
   "scripts": {
     "test": "vtex-test-tools test"
