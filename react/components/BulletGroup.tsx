@@ -10,9 +10,9 @@ const BulletGroup = ({ bullets, children }: PropsWithChildren<BulletGroupProp>) 
   const { isMobile } = useDevice();
 
   const CSS = [
-      "bullet__container",
-      "bullet__container--title"
-    ];
+    "bullet__container",
+    "bullet__container--title"
+  ];
     
   const handle = useCssHandles(CSS);
 
