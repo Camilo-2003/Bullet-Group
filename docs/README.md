@@ -103,7 +103,7 @@ Cada elemento dentro del array bullets debe tener la siguiente estructura (defin
 | **`link.url`** | String | sí | La ruta de navegación o URL a la que dirigirá el bullet.
 
 ## 📱 `Comportamiento Responsivo`
-El componente (BulletGroup.tsx) utiliza el vtex.device-detector para renderizar condicionalmente:
+El componente (`BulletGroup.tsx`) utiliza el **vtex.device-detector** para renderizar condicionalmente:
 
 **`Escritorio:`** Renderiza los children (el slider-layout)
 
@@ -118,10 +118,10 @@ Puedes personalizar la apariencia de los elementos usando las siguientes clases 
 | :--- | :---|
 | **`bullet__container`** | Contenedor principal del grupo de bullets (usado en móvil).
 | **`bullet__container--title`** | Clase para el título "Futuras Categorias" (usado en móvil).
-| **`bullet__item`** | Contenedor de cada bullet individual (`<div>`).
-| **`bullet__item--title`** | Clase para el componente Link de VTEX (`<Link>`), que envuelve la imagen y el titulo del bullet.
-| **`bullet__item--image`** | Clase del elemento de imagen (`<img>`).
-| **`bullet__item--link`** | Clase del elemento de texto (`<p>`) que contiene el titulo del bullet.
+| **`bullet__item`** | Contenedor de cada bullet individual `<div>`.
+| **`bullet__item--title`** | Clase para el componente Link de VTEX `<Link>`, que envuelve la imagen y el titulo del bullet.
+| **`bullet__item--image`** | Clase del elemento de imagen `<img>`.
+| **`bullet__item--link`** | Clase del elemento de texto `<p>` que contiene el titulo del bullet.
 
 
 ## 🪪 `Contribución y Licencia`
