@@ -40,6 +40,12 @@ Este componente es un **Contenedor de Contexto** que debe tener bloques hijos pa
 
 Asegúrate de que la aplicación del componente esté declarada como dependencia en el `manifest.json` de tu tienda.
 
+```json
+"dependencies": {
+  "{vendor}.bullets-group": "0.x"
+}
+```
+
 ### 2. Declaración en Blocks
 
 El componente requiere el bloque principal (`list-context.bullet-group`) para definir los datos y bloques hijos para presentarlos (como el `slider-layout`).
