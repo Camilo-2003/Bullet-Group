@@ -9,6 +9,7 @@
     * [Estructura de cada Objeto `bullet`](#estructura-de-cada-objeto-bullet)
 * [📱 Comportamiento Responsivo (Móvil)](#-comportamiento-responsivo-móvil)
 * [🎨 Personalización con CSS Handles](#-personalización-con-css-handles)
+* [🪪 Contribución y Licencia](#-contribución-y-licencia)
 
 
 ## 🚀 `Visión General`
